@@ -1,5 +1,3 @@
-let Fname = prompt('Enter your Name');
-let age = Number(prompt('Enter your Age'));
-let citizenship = prompt('Are you South African ?');
-let greeting = 'Hi ';
-console.log(greeting + Fname);
+let number= Number (prompt('provide a number of pencils'));
+let price= Number(prompt('provide price of one pencil'));
+let amount = Number (prompt('amount due'));
